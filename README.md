@@ -1,32 +1,32 @@
-# Marieke Beerens
+# Portfolio - Marieke Beerens
 
-Data-analist met ervaring in Power BI, servicemanagement, rapportageontwikkeling en procesverbetering.
+Welkom in mijn portfolio.
 
-In dit portfolio toon ik projecten die ik het uitgevoerd binnen de Gemeente Eindhoven. De focus ligt op het ontwikkelen van rapportages, data-analyses, requirementsanalyse en het ondersteunen van datagedreven besluitvorming.
+Ik ben Marieke Beerens, Data & BI professional met een achtergrond in Bedrijfseconomie en Marketing Analytics (Tilburg University).
 
-## Projecten
+Momenteel werk ik binnen het Service Management team van de Gemeente Eindhoven, waar ik verantwoordelijk ben voor de ontwikkeling van datagedreven rapportages, analyses en procesverbeteringen.
 
-- Servicemanagementrapportage (TOPdesk): Doorontwikkeling van managementrapportages op basis van TOPdesk data.
-- TOPdesk SaaS migratie: Migratie en optimalisatie van rapportages naar een nieuwe SaaS datastructuur.
-- Rapportage Planning & Processen: Ontwikkeling van een nieuwe rapportage op basis van informatiebehoeften van stakeholders.
+Mijn interesse ligt in:
+
+- Data Analytics
+- Business Intelligence
+- AI-toepassingen
+- ETL-processen
+- Datamodellering
+- Procesoptimalisatie
+
+Ik krijg energie van het analyseren van complexe vraagstukken, het ontdekken van patronen in data en het vertalen van inzichten naar conrete verbeteringen.
 
 ## Vaardigheden
 
-- Power BI
-- DAX
-- Power Query
-- Datamodellering
-- Requirementsanalyse
-- Stakeholdermanagement
-- Procesverbetering
+Bekijk: [skills.md](skills.md)
 
-## Kerncompetenties
+## Projecten
 
-- Analytisch sterk
-- Data-gedreven besluitvorming
-- Technische rapportageontwikkeling
-- Verbinder tussen business en data
+Bekijk: projects
 
-## Disclaimer
+## Contact
 
-Vanwege vertrouwelijkheid zijn alle voorbeelden screenshots en datasets geanonimiseerd. De beschreven projecten zijn gebaseerd op daadwerkelijk uitgevoerde werkzaamheden, maar bevatten geen vertrouwelijke of herleidbare informatie.
+LinkedIn: [toevoegen]
+
+E-mail: marieke.beerens@hotmail.com
