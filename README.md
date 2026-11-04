@@ -152,6 +152,6 @@ Mijn ambitie is om door te groeien naar een rol waarin ik het volledige traject 
 
 ## Contact
 
-LinkedIn: [toevoegen]
+LinkedIn: https://www.linkedin.com/in/mariekebeerens
 
 E-mail: marieke.beerens@hotmail.com
